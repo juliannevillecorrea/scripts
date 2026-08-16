@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="1">
+
+  <Content>
+    <Paragraph Type="Action">
+      <Text>FADE IN:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ACT I</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. FATAK'S STREET - AFTERNOON</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A narrow, sun-washed street. Scooters lean against compound walls. A pressure cooker whistles somewhere. The smell of fried onions, cardamom, cloves and chicken drifts through the air.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FATAK, 17, lively, restless, and perpetually hungry, sits on a doorstep with a cup of tea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He takes a sip.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My tea is getting cold.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He looks toward the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Amma!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>No answer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Amma!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>AMMA, 45, appears at the doorway carrying a kitchen towel.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are we having for lunch?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Food.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What food?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The kind that disappears when you put it in your mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Amma.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak sits upright as though someone has switched on a lamp inside him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Chicken?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Chicken.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>With potatoes?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>With potatoes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The big potatoes?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>There are no small potatoes in this house. You eat all the small ones first.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak grins.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I knew today would be a good day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Every day is a good day when you are not the one cooking.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak takes another long sip of tea.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have been thinking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Dangerous.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We should have biryani every day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is not thinking. That is a stomach speaking through you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Imagine it. Every day. Lunch. Biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And dinner?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Breakfast?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tea.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Only tea?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Biryani would be strange at breakfast.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good. There is hope for civilization.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>She disappears into the kitchen.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak smiles into his tea.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition">
+      <Text>CUT TO:</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. FATAK'S HOUSE - LUNCHTIME</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A steel plate of chicken biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak eats with full concentration.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He separates one potato. Smells it. Eats it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He closes his eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Perfect.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His younger sister, LILI, 10, watches him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LILI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You say that every day.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because every day it is true.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LILI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Doesn't it get boring?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Does the moon get boring because it comes back every month?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LILI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The moon is not chicken.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are very young.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lili steals a piece of chicken.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LILI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The moon shared.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma enters.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let her eat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>She has her own food.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And yet she is your sister.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak reluctantly pushes another piece toward Lili.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LILI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>See? He can share.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>One piece is sharing. Two pieces is charity. Three pieces is robbery.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A MONTAGE OF DAYS:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak eats biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak drinks tea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak asks Amma about biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak carries a plate to the courtyard.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak studies with the smell of biryani in the room.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak works.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Tea.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The routine becomes almost ceremonial.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. STREET - EVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak and three friends play cricket with a battered tennis ball.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The friends are RIZWAN, 17, dramatic; MALA, 16, observant; and KIRAN, 18, always hungry but always joking.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RIZWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Run!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am running!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are walking!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am preserving energy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rizwan hits the ball.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>THWACK.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The ball flies over the neighboring wall.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone groans.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RIZWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fatak, your turn.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why me?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because you are the one who said, "I can climb that wall."</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I said I could climb a wall. I did not say I wanted to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Go, biryani prince.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do not call me that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why? It is accurate.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak climbs the wall.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He drops into the neighboring compound.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. NEIGHBORING COMPOUND - CONTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A quiet corner.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>An OLD MAN, KAREEM, 65, sits on the ground beside a dented metal bowl.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>In it: a little plain rice. No meat. No gravy. No spice.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He eats slowly.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak freezes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The man looks up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Looking for something?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The ball.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kareem points.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Behind you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak picks it up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He cannot stop looking at the bowl.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It is only rice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Rice is also food.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You look surprised.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I suppose I am.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>By the rice?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>By how little there is.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kareem considers him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can have too much of a good thing without noticing the little that is enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak doesn't know what to say.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Your friends are waiting.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak nods.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He leaves.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. STREET - MOMENTS LATER</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rizwan grabs the ball.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RIZWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What took you so long?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You look strange.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do I?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe you have finally run out of appetite.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak watches the neighboring compound.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let's play.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They resume the game.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>But Fatak is no longer playing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>His mind is elsewhere.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. FATAK'S HOUSE - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Dinner.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak barely touches his food.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Are you ill?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LILI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Did someone die?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Lili.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>LILI</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>He looks like somebody died.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nobody died.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then eat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak eats one mouthful.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Only one?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Amma...</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hmm?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you think everyone eats like us?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma sits.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because people are different.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. I mean... why should some people have more than enough and others have almost nothing?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma takes a breath.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is a question bigger than your dinner plate.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe not.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Lili looks at him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe it starts with the plate.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ACT I END</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ACT II</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. FATAK'S HOUSE - NEXT DAY - AFTERNOON</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The familiar ritual.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Biryani is served.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak stares at it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma waits.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What is wrong with it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Nothing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Too much salt?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Too little chicken?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then eat.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak carefully divides the biryani into two portions.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma watches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What are you doing?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Changing something.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My share.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He eats half.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And the other half?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Tomorrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It will not be biryani tomorrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then it will become tomorrow's problem.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You cannot save tomorrow by starving today.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am not starving.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are sixteen steps away from a dramatic song about famine.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I just want to eat less.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because somewhere somebody is eating less because they have to.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma softens.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And you think eating less will feed them?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then what are you trying to do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not pretend I don't know.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma sits beside him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is a beginning.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. TEA STALL - EVENING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak sits with Rizwan, Mala, and Kiran.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A kettle whistles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>TEA SELLER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Four teas?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Three.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Everyone looks at him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Three?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am cutting down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RIZWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>On tea?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A little.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is serious.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What happened?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak tells them about Kareem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The jokes fade.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RIZWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what will you do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eat less.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For now.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That sounds like a private promise, not a solution.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe private promises are where solutions begin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Or maybe you just want to lose weight without admitting it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I have seen you eat four samosas.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Research.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Research into what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The structural integrity of the human stomach.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Then Mala gets serious.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If you really want to help, learn where the food goes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you mean?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Restaurants throw away food. Shops throw away food. Weddings throw away food. Houses throw away food.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So what do we do?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Find out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>MONTAGE:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak and his friends visit a small restaurant after closing.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They see unsold food being discarded.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A shopkeeper throws bruised vegetables into a bin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak carries leftover bread to Kareem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kareem refuses.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do not turn me into a lesson.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am not.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then don't bring me food to make yourself feel better.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak is stunned.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Give it because you want another person to eat. Not because you want to become a good person.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How do I know the difference?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don't. That is why you keep checking yourself.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak sits beside him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They share silence.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>INT. FATAK'S HOUSE - KITCHEN - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak catches Amma measuring rice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How much rice do we usually cook?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Enough for everyone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is not a number.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It is the best number.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Suppose we cooked less.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then suppose everyone remained hungry.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What about leftovers?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You have finally noticed them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak looks embarrassed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You think the promise is only about eating less.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Isn't it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. It is about wasting less of what you already have.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>So I should finish everything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Not everything. Only what you take.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A beat.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The world does not become fair because you leave food on a plate.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then what?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The world becomes a little less careless when you pay attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COMMUNITY LANE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak and his friends put up a hand-painted sign:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>TAKE WHAT YOU NEED. LEAVE WHAT YOU DON'T.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A skeptical NEIGHBOR, MR. SEN, 55, watches.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What is this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A food shelf.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Who gave you permission?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No one.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then who takes responsibility?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We do.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are children.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is temporary.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mr. Sen studies them.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>People will misuse it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>People will take more than they need.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>People will laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Probably.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then why do it?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because there are already people with too little.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mr. Sen has no immediate answer.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He puts a bag of rice on the shelf.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MR. SEN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For the record, I am doing this because my wife cooks too much.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Of course.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He walks away.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The shelf slowly fills.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Then it empties.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>And again.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ACT II END</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>ACT III</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading">
+      <Text>EXT. COMMUNITY LANE - MONTHS LATER - MORNING</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The food shelf has become a modest community pantry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A hand-painted board reads:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FOOD FOR TODAY.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>People come and go.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak carries a sack of rice.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kiran counts tins.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Rizwan repairs a shelf.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Mala keeps a notebook.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>We served seventy-three portions this week.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Seventy-four.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You ate one.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I was testing quality.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You are very committed to public service.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Kiran bows.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>KAREEM enters.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He carries something wrapped in cloth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For you.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak opens it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Inside is a small brass bowl.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What's this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>My mother used it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I can't take it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You can.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Why?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because a bowl should not sit empty forever.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak is moved.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And because you once looked at my rice as though it had broken your heart.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It did.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>A heart that never breaks is not much use to anybody.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma arrives with a large pot.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Move. Move. Move. Hot biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak's eyes widen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>The prince has returned.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Don't call me that.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I made enough for everyone.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>How much did you make?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That's not a number.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It is when you have been cooking for forty-five years.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Laughter.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They serve biryani to the people gathered.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak takes a portion.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>It is modest.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He sits beside Kareem.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You used to eat twice this much.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Do you miss it?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak looks at the plate.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Sometimes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Then eat it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You made a promise not to eat more than you need. You did not promise to stop being hungry.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He takes a bite.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Good?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Perfect.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Doesn't it get boring?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak looks at him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Never.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Across the lane, a CHILD watches the food.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak notices.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He gestures.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Come.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The child approaches.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak moves his plate over.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The child takes a piece.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak laughs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Take another.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The child does.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak watches, not possessive now, but delighted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fatak.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hmm?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What do you think your promise actually changed?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak thinks.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Me.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MALA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Only you?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak looks around.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the shelf.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At Amma.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At Kareem.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the friends.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>At the people eating.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I don't know.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KAREEM</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>That is the right answer.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>RIZWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But something changed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KIRAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Definitely my diet.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>They laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak stands.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He walks toward the food shelf.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>There is one empty basket.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He puts the brass bowl inside it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>For whoever comes tomorrow.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Amma watches him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>AMMA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And what will you eat tomorrow?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak smiles.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Whatever is enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>A breeze moves through the lane.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>The sign above the shelf trembles:</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FOOD FOR TODAY.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Fatak looks at it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Then at the people.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Then at his half-eaten biryani.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>He takes another bite.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>BLACKOUT.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>END.</Text>
+    </Paragraph>
+  </Content>
+</FinalDraft>

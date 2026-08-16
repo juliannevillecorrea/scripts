@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="1">
+
+  <Content>
+    <Paragraph Type="Action">
+      <Text>Act I</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 1
+</Text>
+      <Text>(The stage is set as a modest kitchen. FATAK, a boy of perhaps 12, is watching his MOTHER laboriously preparing chicken biryani. Steam rises.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(whispering to herself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Today, just one pot. Must make it enough.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(eyes shining)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Biryani, Ma? Today?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(smiling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Only for you, beta. Just for you.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(joyful)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yessss! Chicken biryani!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(MOTHER serves the biryani. FATAK eats slowly, savoring each bite.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(Mouth full)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This is the best thing in the world, Ma. Better than anything.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(laughing gently)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Eat up. Finish it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(raising his glass)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>And tea afterwards! Strong tea!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Lights fade as FATAK enjoys his routine.)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 2
+</Text>
+      <Text>(One week later. Afternoon. FATAK is eating his biryani in his corner, reading a book.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to himself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Same rice, same spices... everyday...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Suddenly, friends BILAL and KHAN burst in, energetic.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BILAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Hey! Game time!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KHAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Let's play cricket!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(excited)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Yes! Yes!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(KHAN throws the ball. It sails over the wall into the NEIGHBOUR'S compound.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KHAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oops!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BILAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Quick, get it!</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>FATAK hesitates, then goes to retrieve the ball. He stands by the wall, looking at the rice he left behind.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(silently, noticing a NEIGHBOUR'S child sitting nearby, eating plain rice with a smile)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Just a little bit left...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(He picks up the ball, but his mind lingers on the plain rice.)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 3
+</Text>
+      <Text>(Evening. FATAK is eating his biryani again, but this time, he looks troubled.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to himself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I eat biryani... every... single... day.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(He looks at his plate. He stops eating.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(aloud, suddenly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>No. Not today. Not like this.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(MOTHER enters, concerned.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fatak? Is something wrong with the food?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(sincerely)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ma... I... I think I've been eating too much.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(confused)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>But you love it so much!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(serious)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I love it... but others... others might not have anything like this.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(smiling softly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You're a good boy. But don't starve yourself, beta.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I won't. I just... I want to change something. From today...</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Fade to black.)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>---</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Act II</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 1
+</Text>
+      <Text>(Next morning. Kitchen. MOTHER is preparing biryani again.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(surprised)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Fatak? You're up early.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(standing by the counter)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Ma. Today, can you make half the amount?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(startled)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Half? Why?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(resolute)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Because... if I eat half, then the other half... it could help someone else who doesn't get this everyday. Like that boy I saw yesterday.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(eyes filling with tears)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You're growing up so fast, my son. A promise like that... it means something.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(serving half the portion)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Okay. But remember, sharing is beautiful, but don't forget to take care of yourself too.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(nodding, eating slowly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I will. Thank you, Ma.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(He finishes his half portion. He feels lighter, yet determined.)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 2
+</Text>
+      <Text>(Schoolyard. FATAK is with BILAL and KHAN.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BILAL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Where's your appetite today, Attack? You eating half your biryani now?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(smiling)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I am. Because... imagine if that little bit meant another person could have a meal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>KHAN</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(astonished)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You don't seem sad about it. You seem... happy.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It feels better. Like I'm doing something real.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>BILAL</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(grinning)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>You're weird, Attack. But in a good way.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 3
+</Text>
+      <Text>(One week passes. Evening. FATAK eats his half portion. He saves money.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to himself)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>If I save this money... what could I do?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Fade to black.)</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>---</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Act III</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 1
+</Text>
+      <Text>(Sunday. A community center. FATAK stands nervously with a bag of groceries.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to a VOLUNTEER)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Um... I want to donate this food.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VOLUNTEER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(warmly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Oh! You're Fatak! The biryani boy? That's incredible. Where did this come from?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(proudly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It's from my biryani. I eat half, save half. For a week.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VOLUNTEER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(taking the bag)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This will feed a family today. Thank you, Fatak. You're an inspiration.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(teary-eyed)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Is it enough? Is it helping?</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>VOLUNTEER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(sincerely)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Every bit counts, Fatak. And your thoughtfulness... that's worth more than the food itself.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 2
+</Text>
+      <Text>(Back home. MOTHER enters with a letter.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(holding out a letter)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>This came for you today.</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(opening it)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>What is it?</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(He reads. His eyes widen.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(excited)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>It's a notice! The local community is starting a food bank because of what I did! They want to help more people!</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>MOTHER</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(hugging him tightly)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I knew your idea would grow wings, beta.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>Scene 3
+</Text>
+      <Text>(Months later. The community center is full. FATAK stands on a small stage.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(speaking to the crowd)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>I used to think that my love for biryani was just about filling my own plate. But then I saw that a little bit of care could mean a lot to someone else. So I started eating half, to share the other half. And you... you showed me that half could become a feast for many.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Crowd applauds.)</Text>
+    </Paragraph>
+    <Paragraph Type="Character">
+      <Text>FATAK</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical">
+      <Text>(to himself, looking around)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue">
+      <Text>Maybe one day, no one has to worry about their next meal.</Text>
+    </Paragraph>
+    <Paragraph Type="Action">
+      <Text>(Curtain falls.)</Text>
+    </Paragraph>
+  </Content>
+</FinalDraft>
